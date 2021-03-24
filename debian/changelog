@@ -1,9 +1,0 @@
-ros-foxy-xacro-live (0.1.0-1focal) focal; urgency=high
-
-  * xacro_live node: a node that watches changes on a targe xacro file and update the robot_description of robot_state_publisher node
-  * xacro_live_view_node: launch xacro_live, robot_state_publisher, joint_state_publisher_gui, and rviz for a target xacro file and rviz config
-  * Contributors: Mateus Amarante Araújo
-
- -- Mateus Amarante <mateus.amarujo@gmail.com>  Sun, 07 Mar 2021 03:00:00 -0000
-
-
